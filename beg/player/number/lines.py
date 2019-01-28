@@ -1,4 +1,4 @@
-name="i love you">"i love india".i love mom"
+name="i love you"."i love india".i love mom"
 count=0
 for y in name:
     if y=="." :
